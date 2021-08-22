@@ -1,7 +1,7 @@
 ## WELCOME TO MY PROFILE
 
  - I'm a hobbyist developer
- - I'm the most comfortable using either NodeJS / Lua / Python
+ - I'm the most comfortable using either Java / NodeJS / JavaScript / Lua
  - I'd like to learn more about SQL
  - I like ***gaming***
 
@@ -22,7 +22,9 @@
 
 [<img alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50px" height="50px"/>](https://www.wikipedia.org/wiki/HTML)
 [<img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50px" height="50px"/>](https://www.wikipedia.org/wiki/JavaScript)
+<!--
 [<img alt="ES6" src="https://raw.githubusercontent.com/github/explore/master/topics/es6/es6.png" width="50px" height="50px"/>](https://www.wikipedia.org/wiki/ECMAScript)
+-->
 
 [<img alt="Markdown" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" width="50px" height="50px"/>](https://www.wikipedia.org/wiki/Markdown)
 [<img alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="50px" height="50px"/>](https://git-scm.com/)
