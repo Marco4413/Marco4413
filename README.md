@@ -57,8 +57,8 @@
 <details open>
 <summary style="font-size: x-large; font-style: italic;"> My GitHub Stats </summary>
 
-![Marco4413's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco4413&custom_title=%F0%9D%93%B1%F0%9D%93%AD%F0%9D%93%BC%27s%20GitHub%20Stats&theme=dark&show_icons=true&hide=stars&count_private=true)
+![Marco4413's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco4413&custom_title=Marco%27s%20GitHub%20Stats&theme=dark&show_icons=true&hide=stars&count_private=true)
 
-![Marco4413's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Marco4413&custom_title=%F0%9D%93%B1%F0%9D%93%AD%F0%9D%93%BC%27s%20Top%20Languages&theme=dark&langs_count=100&layout=compact)
+![Marco4413's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Marco4413&custom_title=Marco%27s%20Top%20Languages&theme=dark&langs_count=100&layout=compact)
 
 </details>
