@@ -4,7 +4,7 @@ My name's Marco, I'm a hobbyist developer who likes creating projects about rand
 
 If you'd like to know more about me and some of my best projects, check out my personal portfolio hosted on GitHub Pages: [https://Marco4413.github.io](https://Marco4413.github.io)
 
-## What Languages / Tools are you comfortable working with?
+## What Languages / Tools are you the most comfortable working with?
 
 [<img alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50px" height="50px"/>](https://code.visualstudio.com)
 [<img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50px" height="50px"/>](https://www.jetbrains.com/idea)
